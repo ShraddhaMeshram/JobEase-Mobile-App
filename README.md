@@ -70,5 +70,4 @@ Automated testing framework for **JobEase**, a cross-platform (Android/iOS) mobi
 
 ---
 
-## 📂 Folder Structure
 
